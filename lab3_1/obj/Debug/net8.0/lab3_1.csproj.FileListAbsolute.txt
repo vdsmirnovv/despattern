@@ -1,0 +1,14 @@
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/bin/Debug/net8.0/lab3_1
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/bin/Debug/net8.0/lab3_1.deps.json
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/bin/Debug/net8.0/lab3_1.runtimeconfig.json
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/bin/Debug/net8.0/lab3_1.dll
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/bin/Debug/net8.0/lab3_1.pdb
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.AssemblyInfoInputs.cache
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.AssemblyInfo.cs
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.csproj.CoreCompileInputs.cache
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.dll
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/refint/lab3_1.dll
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.pdb
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/lab3_1.genruntimeconfig.cache
+/Users/vdsmirnovv/Desktop/stud/designPat/lab3_1/obj/Debug/net8.0/ref/lab3_1.dll
